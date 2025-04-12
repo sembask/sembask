@@ -12,10 +12,6 @@ Estou sempre em busca da **melhoria contínua**, focando na **qualidade do códi
 - **Backend**: .NET Core, Node.js
 - **Bancos de Dados**: SQL Server, Firebase, Supabase
 
-## Objetivos
-
-Meu foco é continuar aprimorando minhas habilidades em **desenvolvimento**, criando soluções eficientes e escaláveis para resolver problemas desafiadores.
-
 ## Como posso contribuir
 
 Se você precisa de alguém com experiência em **desenvolvimento de sistemas** (com **.NET Core**, **C#**, **Node.js**, **React**, **Next.js**, **SQL Server**, **Azure**) ou em **automação de testes** (com **Cypress**), estou pronto para ajudar a criar soluções robustas e de alto desempenho. Sinta-se à vontade para se conectar!
